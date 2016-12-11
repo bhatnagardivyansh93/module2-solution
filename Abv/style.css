@@ -1,0 +1,82 @@
+body,p,html{
+	margin:0;
+	padding: 0;
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    #three{
+    	width: 860px!important; 
+  }
+    
+  
+}
+
+
+
+
+h1 {
+	color: red;
+	text-align: center;
+	margin-bottom: 50px
+}
+
+div.content {
+	height: 240px;
+	width: 414px;
+	border: solid black 01px;
+	margin: 10px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+div#one {
+	background-color: gray;
+	text-align: center;
+	text-overflow: clip;
+}
+
+div#two {
+	background-color: orange;
+	text-align: center;
+	text-overflow: clip;
+}
+
+div#three {
+	background-color: yellow;
+	text-align: center;
+	text-overflow: clip;
+}
+
+#one p{
+
+}
+
+p {
+	float:right;
+	height: 30px;
+	width:  80px;
+	border: solid black 01px;
+	margin: 0px;
+	line-height:27px;
+	background-color: red
+
+}
+
+#four{
+	background-color: gray;
+
+} 
+
+#five{
+	background-color: orange;
+
+}
+#abc {
+	 margin-top: 40px;
+	 text-align: left;
+	 margin-left: 20px;
+	 margin-bottom: 20px;
+	 margin-right: 20px;
+}
+
+
